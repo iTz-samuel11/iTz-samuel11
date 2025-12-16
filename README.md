@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/samuel11_faraco/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samuel11_faraco/" height="30" width="40"/></a>
 
 <p></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iTz-samuel11&theme=react&show_icons=true&locale=en&layout=compact" alt="iTz-samuel11" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iTz-samuel11&theme=react&show_icons=true&locale=en&layout=compact" alt="iTz-samuel11" /></p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iTz-samuel11&show_icons=true&locale=en&theme=react" alt="wiljmorales" /></p>
